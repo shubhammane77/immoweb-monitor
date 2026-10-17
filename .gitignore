@@ -1,0 +1,8 @@
+.env
+state.json
+__pycache__/
+*.pyc
+.venv/
+.browser-profile/
+screenshots/
+sglang/
